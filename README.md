@@ -16,7 +16,7 @@ All files referenced are from `raw`
 - [Wikimedia Commons, Adam Schultz, Public 
 domain](https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg)
 
-<img src="assets/biden.jpg" height="400px" width="250px"
+<img src="assets/biden.jpg" height="400px" width="250px">
 
 ### Output
 ![output](assets/output.jpg)
