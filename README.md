@@ -26,7 +26,7 @@ domain](https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.
 - [Python 3.9+](https://www.python.org/downloads/)
 - Pillow
 ```bash
-pip install pillow
+$ pip install pillow
 ```
 - **Artifex** is currently only supported for *Windows*
 
@@ -37,28 +37,28 @@ pip install pillow
 
 ### Commands
 ```bash
-artifex <image1.jpg>
+$ artifex <image1.jpg>
 ```
 Converts the image and stores it as `output.jpg`
 
 ```bash
-artifex <image1.jpg> --save <custom-file.jpg>
+$ artifex <image1.jpg> --save <custom-file.jpg>
 ```
 Saves the output with a custom filename
 ```bash
-artifex <image1.jpg> --show
+$ artifex <image1.jpg> --show
 ```
 Converts the image and opens up a window to display it
 ```bash
-artifex <image1.jpg> --size <amount>
+$ artifex <image1.jpg> --size <amount>
 ```
 Changes the image size of the output *(default 500)*
 ```bash
-artifex <image1.jpg> --border-thickness <amount>
+$ artifex <image1.jpg> --border-thickness <amount>
 ```
 Changes the border thickness of the output *(default 3)*
 
 **These attributes can be stacked:**
 ```bash
-artifex <image1.jpg> --save <custom-file.jpg> --size 200 --border-thickness 5 --show
+$ artifex <image1.jpg> --save <custom-file.jpg> --size 200 --border-thickness 5 --show
 ```
