@@ -58,7 +58,7 @@ artifex <image1.jpg> --border-thickness <amount>
 ```
 Changes the border thickness of the output *(default 3)*
 
-**These attributes can be stacked:**
+**These flags can be stacked:**
 ```bash
 artifex <image1.jpg> --save <custom-file.jpg> --size 200 --border-thickness 5 --show
 ```
