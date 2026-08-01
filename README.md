@@ -7,14 +7,19 @@
 - No AI
 - Runs locally on your machine
 
+## Where are the files?
+The files are stored in [raw](https://github.com/virRB/Artifex/tree/main/raw)
+This is the folder you need to download to install **Artifex**
+All files referenced are from `raw`
+
 ### Input 
 - [Wikimedia Commons, Adam Schultz, Public 
 domain](https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg)
 
-![input](biden.jpg)
+![input](assets/biden.jpg)
 
 ### Output
-![output](output.jpg)
+![output](assets/output.jpg)
 
 ## Dependencies
 - [Python 3.9+](https://www.python.org/)
