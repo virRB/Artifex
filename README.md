@@ -1,16 +1,17 @@
 # Artifex
 
 ## What is **Artifex?**
-**Artifex** is a image to abstract art converter.
+**Artifex** is an image-to-abstract art converter.
 - Fast
 - Easy to use
 - No AI
 - Runs locally on your machine
 
 ## Where are the files?
-The files are stored in [raw](https://github.com/virRB/Artifex/tree/main/raw)
-This is the folder you need to download to install **Artifex**
-All files referenced are from `raw`
+
+The project files are stored in the [raw](https://github.com/virRB/Artifex/tree/main/raw) folder.
+Download the contents of this folder to install **Artifex**.
+All files referenced by the installer are located inside `raw`.
 
 ### Input 
 - [Wikimedia Commons, Adam Schultz, Public 
