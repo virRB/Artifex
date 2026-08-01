@@ -23,7 +23,7 @@ domain](https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.
 <img src="assets/output.jpg" height="250px" width="250px">
 
 ## Dependencies
-- [Python 3.9+](https://www.python.org/)
+- [Python 3.9+](https://www.python.org/downloads/)
 - Pillow
 ```bash
 pip install pillow
