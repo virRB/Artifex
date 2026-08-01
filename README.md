@@ -19,7 +19,7 @@ domain](https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.
 <img src="assets/biden.jpg" height="400px" width="250px">
 
 ### Output
-<img src="assets/output.jpg" height="500px" width="500px">
+<img src="assets/output.jpg" height="250px" width="250px">
 
 ## Dependencies
 - [Python 3.9+](https://www.python.org/)
